@@ -1,0 +1,21 @@
+{
+  "formHeader": {
+    "backgroundColor": "#e6e6e6",
+    "height": "200px",
+    "width": "100%",
+    "opacity":"0.5"
+  },
+  "formContent": {
+    "fontWeight": "bold",
+    "fontSize": "32px",
+     "color": "blue"
+   },
+   "line": {
+     "border": "1px solid #CCCCCC"
+   },
+   "form": {
+     "position": "relative",
+      "top": "-70px",
+      "left": "26%"
+    }
+}

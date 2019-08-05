@@ -1,0 +1,77 @@
+{
+  "resultHeader":  {
+    "fontSize": "16px",
+    "wordBreak": "break-word",
+    "fontFamily": "Roboto, Helvetica Neue, Helvetica, Arial, sans-serif",
+    "color": "#333333",
+    "lineHeight": "25px",
+    "marginLeft": "10px",
+    "fontWeight": "bold"
+  },
+  "cardImage":  {
+    "maxHeight": "25px",
+    "overflow": "hidden"
+  },
+  "cardInfo": {
+    "fontFamily": "Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+  },
+  "cardLine": {
+    "border": "1px solid #CCCCCC"
+  },
+  "cardInfoDes": {
+    "fontSize": "16px",
+    "fontWeight": "bold",
+    "marginTop": "-15px"
+  },
+  "cardMoney": {
+    "color": "#0099ff"
+  },
+  "cardPercentageOutline": {
+    "border": "1px solid #CCCCCC",
+    "borderRadius": "4px",
+    "marginTop": "-10px"
+  },
+  "cardCollectedDes": {
+    "fontSize": "15px",
+    "fontWeight": "bold",
+    "marginTop": "3px",
+    "float": "left"
+  },
+  "cardTime": {
+    "fontSize": "15px",
+    "fontWeight": "bold",
+    "marginTop": "3px",
+    "float": "right"
+  },
+  "filterHeader":  {
+    "fontSize": "16px",
+    "wordBreak": "break-word",
+    "fontFamily": "Roboto, Helvetica Neue, Helvetica, Arial, sans-serif",
+    "color": "#999999",
+    "lineHeight": "25px"
+  },
+  "filterHeaderClear": {
+    "float": "right"
+  },
+  "filterContentHeader": {
+    "fontSize": "12px",
+    "fontWeight": "bold",
+    "lineHeight": "1em",
+    "color": "#333333",
+    "fontFamily": "Roboto, Helvetica Neue, Helvetica, Arial, sans-serif",
+    "cursor": "pointer"
+  },
+  "filterContentCheckbox": {
+    "fontSize": "16px",
+    "fontWeight": "normal",
+    "lineHeight": "20px",
+    "color": "#999999",
+    "fontFamily": "Roboto, Helvetica Neue, Helvetica, Arial, sans-serif",
+    "marginLeft":"10px"
+  },
+  "filterContentCheckboxData": {
+    "float": "right",
+    "fontWeight": "bold",
+    "fontSize":"12px"
+  }
+}
