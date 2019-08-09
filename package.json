@@ -6,7 +6,8 @@
   "scripts": {
     "test": "mocha",
     "dev": "next dev",
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "next build"
   },
   "private": true,
   "engines":{
