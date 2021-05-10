@@ -28,7 +28,7 @@
     "ganache-cli": "^6.1.6",
     "google-libphonenumber": "^3.2.2",
     "ipfs-api": "^24.0.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "metamask-logo": "^2.2.0",
     "mocha": "^5.2.0",
     "mysql": "^2.16.0",
